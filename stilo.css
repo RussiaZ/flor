@@ -1,0 +1,14 @@
+ody {
+ margin: 0;
+ background: pink;
+ height: 100%;
+ display: flex;
+ font-style: column;
+ justify-content: center;
+ align-items: center;
+}
+svg.rose {
+    display: block;
+    width: 600px;
+    padding-top: 10em;
+}
